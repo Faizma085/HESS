@@ -1,8 +1,8 @@
 # Global Wet–Dry Regime Transitions
 
 **Companion analysis code for the manuscript:**  
-*Land-Surface Sensitivity and Climate Variability Shape Global Wet-Dry Regime Transitions*  
-**Manuscript identifier:** egusphere-2026-4696  
+*Land-Surface Sensitivity and Climate Variability Shape Global Wet-Dry Regime Transitions*  *The title is revised* 
+**Manuscript id:** egusphere-2026-4696  
 ## Research scope
 
 The analysis describes spatial changes in the **direction of modeled terrestrial water storage-state trends**, approximated historically from TerraClimate soil water and snow water equivalent (SWE). Historical trend signs are assessed for **1979–2000** and **2001–2023**, and a **30-model CMIP6** workflow compares recent historical and projected trends under **SSP2-4.5** and **SSP5-8.5**.
