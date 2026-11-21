@@ -1,7 +1,7 @@
 # Global Wet–Dry Regime Transitions
 
 **Companion analysis code for the manuscript:**  
-*Land-Surface Sensitivity and Climate Variability Shape Global Wet-Dry Regime Transitions*  *The title is revised* 
+*Land-Surface Sensitivity and Climate Variability Shape Global Wet-Dry Regime Transitions*  
 **Manuscript id:** egusphere-2026-4696  
 ## Research scope
 
